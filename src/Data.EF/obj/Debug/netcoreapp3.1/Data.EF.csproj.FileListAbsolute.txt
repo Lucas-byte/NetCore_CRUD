@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Data.EF.deps.json
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Data.EF.dll
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Data.EF.pdb
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.dll
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.pdb
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Data.EF.runtimeconfig.json
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Data.EF.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.EF\obj\Debug\netcoreapp3.1\Data.EF.genruntimeconfig.cache

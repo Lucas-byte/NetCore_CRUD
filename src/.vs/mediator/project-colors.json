@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb1013b5-4be9-46ab-b1fb-de35ec6558e5": {
+      "ProjectGuid": "eb1013b5-4be9-46ab-b1fb-de35ec6558e5",
+      "DisplayName": "application",
+      "ColorIndex": 0
+    },
+    "6d370f57-0258-4722-9ba2-be4ca64f2b77": {
+      "ProjectGuid": "6d370f57-0258-4722-9ba2-be4ca64f2b77",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "d4356aab-c395-4829-a3d6-140622033cbb": {
+      "ProjectGuid": "d4356aab-c395-4829-a3d6-140622033cbb",
+      "DisplayName": "Data.EF",
+      "ColorIndex": 2
+    },
+    "b1136f11-9321-4398-9c06-0d145c801005": {
+      "ProjectGuid": "b1136f11-9321-4398-9c06-0d145c801005",
+      "DisplayName": "CrossCutting",
+      "ColorIndex": 3
+    },
+    "32c5e74e-b097-4d43-8d14-c8fabab34375": {
+      "ProjectGuid": "32c5e74e-b097-4d43-8d14-c8fabab34375",
+      "DisplayName": "Application",
+      "ColorIndex": 4
+    },
+    "b5aad4b7-19e2-4009-a46c-8479e8c9ad61": {
+      "ProjectGuid": "b5aad4b7-19e2-4009-a46c-8479e8c9ad61",
+      "DisplayName": "Data.Dapper",
+      "ColorIndex": 5
+    },
+    "e4ce887c-1e49-4806-87d2-7d1844293882": {
+      "ProjectGuid": "e4ce887c-1e49-4806-87d2-7d1844293882",
+      "DisplayName": "Core",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

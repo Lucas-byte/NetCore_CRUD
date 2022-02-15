@@ -1,0 +1,13 @@
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\bin\Debug\netcoreapp3.1\Data.Dapper.deps.json
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\bin\Debug\netcoreapp3.1\Data.Dapper.dll
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\bin\Debug\netcoreapp3.1\Data.Dapper.pdb
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.dll
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.pdb
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\lucas\OneDrive\Desktop\mediator2\src\Data.Dapper\obj\Debug\netcoreapp3.1\Data.Dapper.csproj.CopyComplete
